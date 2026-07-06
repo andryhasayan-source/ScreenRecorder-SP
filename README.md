@@ -4,6 +4,26 @@
 
 ---
 
+## 🖥️ Скриншоты / Screenshots
+
+**Общий вид (RU) / Main view (RU)**
+
+![Общий вид RU](screenshots/1-main-ru.png)
+
+**Настройка звука (RU) / Audio setup (RU)**
+
+![Настройка звука RU](screenshots/2-audio-setup-ru.png)
+
+**Общий вид (EN) / Main view (EN)**
+
+![Main view EN](screenshots/3-main-en.png)
+
+**Настройка звука (EN) / Audio setup (EN)**
+
+![Audio setup EN](screenshots/4-audio-setup-en.png)
+
+---
+
 ## Русский
 
 Быстрый и понятный инструмент для записи экрана — для Shorts, обучающих роликов и демонстрации программ.
@@ -37,20 +57,6 @@
 - Записи игр и программ
 - Демонстрации экрана
 - Создания контента для соцсетей
-
-### 🖥️ Скриншоты
-
-**Общий вид программы (RU)**
-![Общий вид RU](screenshots/1-main-ru.png)
-
-**Настройка звуковых устройств (RU)**
-![Настройка звука RU](screenshots/2-audio-setup-ru.png)
-
-**General view (EN)**
-![Main view EN](screenshots/3-main-en.png)
-
-**Audio setup (EN)**
-![Audio setup EN](screenshots/4-audio-setup-en.png)
 
 ### 💰 Коммерческий продукт
 
@@ -98,20 +104,6 @@ Instant language switching inside the app, no restart required.
 - Game and software recording
 - Screen demonstrations
 - Social media content creation
-
-### 🖥️ Screenshots
-
-**Main view (RU)**
-![Main view RU](screenshots/1-main-ru.png)
-
-**Audio setup (RU)**
-![Audio setup RU](screenshots/2-audio-setup-ru.png)
-
-**General view (EN)**
-![Main view EN](screenshots/3-main-en.png)
-
-**Audio setup (EN)**
-![Audio setup EN](screenshots/4-audio-setup-en.png)
 
 ### 💰 Commercial product
 
